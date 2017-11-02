@@ -1,4 +1,6 @@
 ### docker101
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NdagiStanley/docker101.svg)](https://greenkeeper.io/)
 Introduction to docker
 
 This is a simple HTML page served by node.
